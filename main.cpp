@@ -23,5 +23,5 @@ int main(){
 }
 
 int nibai(int a){
-	// –¢À‘•
+  return 2 * a;
 }
